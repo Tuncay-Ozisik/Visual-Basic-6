@@ -10,7 +10,7 @@ Please note that;
 - Requires ASTRON library in IDL "lib" directory.
 - Tested with Norhern Hemisphere and East Longitudes.
 - No high precision for the times of events.
-- EPHEMERIS.INI file must be set according to location where ephemeris calculations needed.
+- "ephemeris.ini" file must be set according to location where ephemeris calculations needed.
 
 Enjoy!
 
